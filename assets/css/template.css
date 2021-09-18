@@ -1,0 +1,29 @@
+#img-header{
+	margin-top: -14px;
+	margin-left: -15px;
+}
+#btn-header {
+	margin-right: -50%;
+}
+footer{
+	margin-top: 28%;
+}
+
+.slides {
+
+
+	display: flex;
+	
+	
+	overflow-x: auto;
+	
+	
+	scroll-snap-type: x mandatory;
+	
+	
+	}
+	
+	
+
+	
+
