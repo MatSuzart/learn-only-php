@@ -1,4 +1,4 @@
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /ead/index.php/$1 [L]
+RewriteRule ^(.*)$ /learn_to_interview/index.php/$1 [L]
